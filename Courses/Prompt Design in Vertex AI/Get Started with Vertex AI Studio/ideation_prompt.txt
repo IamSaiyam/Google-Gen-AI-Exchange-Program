@@ -1,0 +1,8 @@
+Task: Idea Generation
+
+Prompt:
+Generate 5 creative startup ideas in the healthtech space targeting rural India. Focus on affordability, accessibility, and tech-enabled services.
+
+Constraints:
+- Ideas should be implementable within 2 years
+- Must include a one-line description for each idea

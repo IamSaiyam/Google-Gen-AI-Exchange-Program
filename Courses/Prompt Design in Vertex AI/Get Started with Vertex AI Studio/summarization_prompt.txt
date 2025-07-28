@@ -1,0 +1,10 @@
+Task: Summarization
+
+Prompt:
+Summarize the following article in 3 bullet points. Focus on key findings and recommendations.
+
+[Insert Article Text Here]
+
+Constraints:
+- No bullet point should exceed 20 words
+- Use plain language for a non-technical audience

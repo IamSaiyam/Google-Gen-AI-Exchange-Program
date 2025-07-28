@@ -1,0 +1,12 @@
+Task: Information Extraction
+
+Prompt:
+Extract the name of the person, date, and location from the following news paragraph.
+
+Text:
+"On July 14, 2024, Anjali Sharma attended the AI in Healthcare Summit held in Bengaluru."
+
+Expected Output:
+Name: Anjali Sharma
+Date: July 14, 2024
+Location: Bengaluru

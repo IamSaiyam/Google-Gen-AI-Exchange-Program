@@ -1,0 +1,10 @@
+Task: Sentiment Classification
+
+Prompt:
+Classify the sentiment of the following customer feedback as Positive, Negative, or Neutral.
+
+Feedback:
+"This product is okay. It works, but I expected more features."
+
+Format:
+Sentiment: [Positive | Negative | Neutral]
