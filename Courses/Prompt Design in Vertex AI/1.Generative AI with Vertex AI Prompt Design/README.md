@@ -41,9 +41,11 @@ This lab explores prompt engineering using the **Google Gen AI SDK** with **Vert
 
 ## 🔗 Useful Links
 
-- [Vertex AI Documentation](https://cloud.google.com/vertex-ai/docs/generative-ai/)
-- [Gemini API Overview](https://deepmind.google/technologies/gemini/)
-- [Prompt Design Guide](https://cloud.google.com/vertex-ai/docs/generative-ai/prompt-design)
+- [Prompt Design](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/introduction-prompt-design)
+- [Gemini](https://deepmind.google/models/gemini/)
+- [Gemini Documentation](https://cloud.google.com/vertex-ai/generative-ai/docs/models#gemini-models)
+- [Vertex AI Workbench](https://cloud.google.com/vertex-ai/docs/workbench/introduction)
+- [System Instructions](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/system-instruction-introduction)
 
 ---
 

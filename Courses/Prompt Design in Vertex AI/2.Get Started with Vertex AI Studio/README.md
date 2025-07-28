@@ -46,7 +46,7 @@ This repo includes example prompt templates designed during the lab:
 
 ## 🔗 Resources
 
-- [Vertex AI Documentation](https://cloud.google.com/vertex-ai/docs/generative-ai)
+- [Vertex AI Studio](https://cloud.google.com/generative-ai-studio?hl=en)
 - [Gemini Overview](https://deepmind.google/technologies/gemini)
 - [Prompt Design Guide](https://cloud.google.com/vertex-ai/docs/generative-ai/prompt-design)
 
