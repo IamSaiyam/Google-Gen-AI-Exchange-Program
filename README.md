@@ -55,18 +55,6 @@ Whether you're just starting out or an AI pro, there's a place for everyone:
 - Compete with the best minds  
 - Win prizes and recognition  
 
----
-
-## 📂 Repository Structure
-
-genai-exchange/
-├── academy-notes/ # Notes & summaries from Gen AI Academy
-├── badges-certificates/ # Earned digital badges and certificates
-├── hackathon-projects/ # AI projects built during Hackathon
-├── resources/ # Helpful links, tutorials, and assets
-└── README.md # This file
-
----
 
 ## 🌐 Connect
 
